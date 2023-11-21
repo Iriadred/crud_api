@@ -1,0 +1,46 @@
+# Fichiers système
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Fichiers de l'environnement virtuel
+venv/
+env/
+env3/
+__env__/
+.venv/
+.venv3/
+
+# Fichiers de configuration locaux
+*.sqlite3
+db.sqlite3
+db.sqlite
+
+# Fichiers de configuration spécifiques à l'IDE
+.vscode/
+
+# Fichiers de logs
+*.log
+
+# Fichiers de sauvegarde et fichiers de session
+*.bak
+*.swp
+*.swo
+*.session
+
+# Fichiers de configuration de l'environnement
+.env
+
+# Fichiers de configuration pour PyCharm
+.idea/
+
+# Fichiers de cache
+__pycache__/
+.cached/
+
+# Fichiers de média générés
+media/
+
+# Fichiers de configuration pour le déploiement
+deploy/
